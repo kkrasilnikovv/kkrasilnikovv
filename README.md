@@ -13,7 +13,7 @@
 # Мои проекты:
 - [Cepheus-trade](https://github.com/kkrasilnikovv/java-shareit) - полноценное приложение, являющееся техническим заданием во время хакатона от
 компании Совкомбанк. Синхронная микросервисная архитектура, где я ответственен за ветку java-dev
-- [ShareIt](https://github.com/kkrasilnikovv/java-shareit) - REST-сервисы с использованием Spring MVC, SpringData, Hibernate, PostgreSQL. Приложение для аренды вещей: инструментов, гаджетов, книг и т.д. 
+- [ShareIt](https://github.com/kkrasilnikovv/java-shareit) - REST-сервис с использованием Spring Boot, Maven, Lombok, Hibernate, PostgreSQL. Приложение для аренды вещей: инструментов, гаджетов, книг и т.д. 
 Как каршеринг, только для вещей. 
 - [Filmorate](https://github.com/kkrasilnikovv/java-filmorate) - REST-сервис с использованием Spring Boot, Maven, Lombok и взаимодействие с БД с помощью JDBC: 
 Кинопоиск для своих - социальная сеть, которая поможет выбрать кино на основе того, какие фильмы вы и ваши друзья смотрите и какие оценки им ставите. 
