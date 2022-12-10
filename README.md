@@ -11,7 +11,7 @@
 - GIT
 
 # Мои проекты:
-- [Cepheus-trade](https://github.com/kkrasilnikovv/java-shareit) - полноценное приложение, являющееся техническим заданием во время хакатона от
+- [Cepheus-trade](https://github.com/kkrasilnikovv/cepheus-trade) - полноценное приложение, являющееся техническим заданием во время хакатона от
 компании Совкомбанк. Синхронная микросервисная архитектура, где я ответственен за ветку java-dev
 - [ShareIt](https://github.com/kkrasilnikovv/java-shareit) - REST-сервис с использованием Spring Boot, Maven, Lombok, Hibernate, PostgreSQL. Приложение для аренды вещей: инструментов, гаджетов, книг и т.д. 
 Как каршеринг, только для вещей. 
